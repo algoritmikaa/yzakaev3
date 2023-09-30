@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+header {
+    background-color: black;
+    padding: 15px;
+    margin-bottom: 15px;
+}
